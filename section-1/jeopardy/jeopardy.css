@@ -1,20 +1,20 @@
 #jeopardy {
   text-align: center;
   font-size: 9pt;
-  background-color: #060ce9;
+  background-color: #080c80;
   color: white;
   border-collapse: collapse;
 }
 
 #jeopardy th, #jeopardy td {
-  border: solid 1px white;
+  border: solid 2px white;
   width: 12em;
   padding: 1em;
 }
 
 th {
   text-transform: uppercase;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
   font-weight: bold;
   height: 4em;
   text-shadow: darkgoldenrod 1px 1px;
