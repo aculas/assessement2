@@ -122,11 +122,11 @@ function handleClick(evt) {
  * and update the button used to fetch data.
  */
 
-function showLoadingView() {}
+// function showLoadingView() {}
 
-/** Remove the loading spinner and update the button used to fetch data. */
+// /** Remove the loading spinner and update the button used to fetch data. */
 
-function hideLoadingView() {}
+// function hideLoadingView() {}
 
 /** Start game:
  *
